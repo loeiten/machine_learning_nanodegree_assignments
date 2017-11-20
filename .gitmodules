@@ -1,0 +1,9 @@
+[submodule "titanic_survival_exploration"]
+	path = titanic_survival_exploration
+	url = https://github.com/loeiten/titanic_survival_exploration
+[submodule "boston_housing"]
+	path = boston_housing
+	url = https://github.com/loeiten/boston_housing
+[submodule "finding_donors"]
+	path = finding_donors
+	url = https://github.com/loeiten/finding_donors
