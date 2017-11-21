@@ -7,3 +7,6 @@
 [submodule "finding_donors"]
 	path = finding_donors
 	url = https://github.com/loeiten/finding_donors
+[submodule "customer_segments"]
+	path = customer_segments
+	url = https://github.com/loeiten/customer_segments
