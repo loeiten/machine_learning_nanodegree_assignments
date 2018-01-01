@@ -10,3 +10,6 @@
 [submodule "customer_segments"]
 	path = customer_segments
 	url = https://github.com/loeiten/customer_segments
+[submodule "smartcab"]
+	path = smartcab
+	url = https://github.com/loeiten/smartcab
