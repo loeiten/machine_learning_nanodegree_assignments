@@ -13,3 +13,6 @@
 [submodule "smartcab"]
 	path = smartcab
 	url = https://github.com/loeiten/smartcab
+[submodule "dog-project"]
+	path = dog-project
+	url = https://github.com/loeiten/dog-project
