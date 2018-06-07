@@ -16,3 +16,6 @@
 [submodule "dog-project"]
 	path = dog-project
 	url = https://github.com/loeiten/dog-project
+[submodule "ml_nanodegree_capstone"]
+	path = ml_nanodegree_capstone
+	url = https://github.com/loeiten/ml_nanodegree_capstone
